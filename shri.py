@@ -1,0 +1,1 @@
+print("Rest in peace")
